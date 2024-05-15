@@ -1,0 +1,14 @@
+
+.main{
+	background: url("https://cdn.decorpad.com/photos/2015/03/24/three-sisters-studio-kids-clouds-pattern-wallpaper.jpeg");
+	background-size: cover;
+}
+.main h1{
+	color: blueviolet;
+}
+.main label,h3{
+	color: blueviolet;
+}
+.main h3,a{
+	text-decoration: none;
+}
